@@ -1,0 +1,37 @@
+# Created by https://www.gitignore.io
+
+### Gradle ###
+.gradle
+build/
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+/*/build/
+
+# idea
+.idea
+
+#local.properties
+local.properties
+
+*.iml
+
+# original file saved after performing a merge in git
+*.orig
+
+.DS_Store
+
+
+
+*.local_bak
